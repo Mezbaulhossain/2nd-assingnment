@@ -22,20 +22,6 @@ section {
     width: 1050px;
     margin: auto;
 }
-.button a {
-    margin-top: 15px;
-    display: inline-block;
-    background-color: #E02C6D;
-    padding: 10px 15px;
-    border-radius: 10px;
-    color: white;
-}
-.button a:hover {
-    transition: all .3s ease-in-out;
-    background-color: white;
-    color: black;
-    border: 2px solid #E02C6D;
-}
 
 /* navigation Design Part */
 
@@ -68,6 +54,20 @@ section {
 }
 .bnenner-text-section p {
     padding-bottom: 20px;
+}
+.button a {
+    margin-top: 15px;
+    display: inline-block;
+    background-color: #34495E;
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: white;
+}
+.button a:hover {
+    transition: all .3s ease-in-out;
+    background-color: white;
+    color: black;
+    border: 2px solid #34495E;
 }
 .bannerimage img {
     transition: all .7s ease-in-out;
@@ -142,7 +142,7 @@ section {
 .see-more-button a{
     text-align: right;
     display: inline-block;
-    color: #E02C6D;
+    color: #34495E;
 }
 
 /* photography skill start*/
@@ -163,7 +163,7 @@ section {
 
 }
 .photography-skill-text a {
-    color: #E02C6D;
+    color: #34495E;
     font-weight: 700;
     display: inline-block;
     margin-top: 15px;
